@@ -1,2 +1,2 @@
 # SQL
-# sql edu
+# sqledu
